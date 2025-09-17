@@ -17,7 +17,7 @@ from dateutil import parser as date_parser
 # CONFIG (edit these)
 # ----------------------
 SERVICE_ACCOUNT_FILE = "gcloud-service-account.json"  # created at runtime by GitHub Actions
-SPREADSHEET_ID = "YOUR_SPREADSHEET_ID_HERE"          # from Google Sheets URL
+SPREADSHEET_ID = "PtyjgDfe7VYmtpW-UlZM0U84Y6iE9GwR3W3FSSsvj0g"          # from Google Sheets URL
 TENDERS_SHEET = "Tenders"
 PROCESSED_SHEET = "Processed"
 
